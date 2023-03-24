@@ -1,0 +1,12 @@
+[package]
+name = "noodle"
+description = "Bindings to FFXIV's Oodle"
+authors = ["NotNite <hi@notnite.com>"]
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.69"
+lazy_static = "1.4.0"
+libloading = "0.7.4"
+skidscan = "2.0.1"
